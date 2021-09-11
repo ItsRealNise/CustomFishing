@@ -1,2 +1,2 @@
 # CustomFishing
-CustomFishing PocketMine
+Now You Can Fishing In Pocketmine
